@@ -26,3 +26,5 @@ tqdm>=4.66
 
 # Reinforcement learning
 gymnasium[toy-text]>=0.29
+kagglehub>=0.3
+fastf1>=3.4
